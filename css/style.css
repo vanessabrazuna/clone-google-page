@@ -211,8 +211,8 @@ a:hover {
         margin: 30px 0px 0px 50px;
     }
 
-    .logo {
-        height: auto;
+    .logo img {
+        height: 70px;
     }
 
     .input {
