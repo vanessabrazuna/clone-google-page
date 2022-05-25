@@ -1,2 +1,2 @@
 # clone-google-page
-Clone da página do google, exercício referente ao curso b7web. 
+Clone from the google page, exercise referring to the b7web course. 
